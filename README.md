@@ -10,3 +10,4 @@ Maily is a free and open-source editor  that makes it hassle-free to craft beaut
 
 - [Maily](https://maily.to/)
 - [Resend](https://resend.com/)
+- [Convert .eml to .html]()

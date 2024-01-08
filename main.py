@@ -3,7 +3,7 @@ from decouple import config
 
 resend.api_key = config("RESEND_KEY")
 
-file_path = 'template/maily-to.html'
+file_path = 'convert/innovestx.html'
 with open(file_path, 'r', encoding='utf-8') as file:
     file_content = file.read()
 
